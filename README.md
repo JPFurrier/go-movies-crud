@@ -5,6 +5,7 @@
 The purpose of this project is to improve my Golang skills.<br>
 So I developed this movie CRUD, with basic functions without using a database.<br>
 The whole project was tested in Postman.
+<br>
 
 ## :sparkles: Features
 :heavy_check_mark: List all current movies.\
@@ -25,12 +26,19 @@ The following tools were used in this project:
 - [Golang](https://go.dev/)
 - [Mux](https://github.com/gorilla/mux)
 - [Postman](https://www.postman.com/)
+<br>
 
 ## :white_check_mark: Requirements
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), and [GO](https://go.dev/) installed.
 
 To test it is recommended to install the desktop version of [Postman](https://www.postman.com/)
+<br>
+
+## :clipboard: Diagram 
+<br>
+<img src="/img/CRUD API - MovieServer" width="100px" height="100px">
+
 
 ## <!-- Status -->
 
