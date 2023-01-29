@@ -32,7 +32,6 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), a
 
 To test it is recommended to install the desktop version of [Postman](https://www.postman.com/)
 
-
 ## <!-- Status -->
 
 <h2 align="center">Status</h2>
@@ -41,16 +40,16 @@ To test it is recommended to install the desktop version of [Postman](https://ww
 </h3><br>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JPFurrier/go-movies?color=56A2BE">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JPFurrier/go-movies-crud?color=56A2BE">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JPFurrier/go-movies?color=56A2BE">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JPFurrier/go-movies-crud?color=56A2BE">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JPFurrier/go-moviescolor=56A2BE">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JPFurrier/go-movies-crud?color=56A2BE">
 
 </p>
 
 <hr>
 
-Developed by: <a href="https://github.com/JPFurrier" target="_blank">João Pedro Furrier</a><img src="/img/wave.gif"/>
+Developed by: <a href="https://github.com/JPFurrier" target="_blank">João Pedro Furrier</a> <img class="animated-gif" src="/img/wave.gif" width="30px" height="30px">
 
 <a href="#top">Back to top</a>
