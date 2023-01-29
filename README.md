@@ -51,6 +51,6 @@ To test it is recommended to install the desktop version of [Postman](https://ww
 
 <hr>
 
-Developed by: <a href="https://github.com/JPFurrier" target="_blank">João Pedro Furrier</a><img src="/img/wave.gif"/>
+Developed by: <a href="https://github.com/JPFurrier" target="_blank">João Pedro Furrier</a> <h2><img src="/img/wave.gif"/></h2>
 
 <a href="#top">Back to top</a>
