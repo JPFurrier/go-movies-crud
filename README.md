@@ -37,7 +37,7 @@ To test it is recommended to install the desktop version of [Postman](https://ww
 
 ## :clipboard: Diagram 
 <br>
-<img src="/img/CRUD API - MovieServer" width="100px" height="100px">
+<img src="/img/CRUD API - MovieServer.png">
 
 
 ## <!-- Status -->
